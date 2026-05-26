@@ -1,3 +1,4 @@
+
 # 2D Gravity Simulation
 
 A real-time 2D gravitational physics simulation built with Java and FXGL. Watch multiple bodies attract each other through Newtonian gravity, collide elastically, and form dynamic orbital systems.
@@ -9,7 +10,7 @@ A real-time 2D gravitational physics simulation built with Java and FXGL. Watch 
 ## Preview
 
 
-https://github.com/user-attachments/assets/b6bbfa0b-1322-4a92-aad2-485aa1c1474e
+![Preview](https://github.com/user-attachments/assets/4be4021c-2dc4-4099-9ed0-e182a0f51ac5)
 
 
 ---
