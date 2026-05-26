@@ -80,6 +80,4 @@ Tweak these values in `App.java` to change simulation behaviour:
 
 ---
 
-## License
 
-MIT
