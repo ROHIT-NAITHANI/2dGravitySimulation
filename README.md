@@ -6,6 +6,15 @@ A real-time 2D gravitational physics simulation built with Java and FXGL. Watch 
 
 ---
 
+## Preview
+
+
+https://github.com/user-attachments/assets/b6bbfa0b-1322-4a92-aad2-485aa1c1474e
+
+
+---
+
+
 ## Features
 
 - **N-body gravitational simulation** — every body attracts every other body using Newton's law of universal gravitation
